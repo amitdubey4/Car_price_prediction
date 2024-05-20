@@ -6,7 +6,7 @@ import numpy as np
 
 application = Flask(__name__)
 app = application
-cors=CORS(app)
+#cors=CORS(app)
 model=pickle.load(open('LinearRegressionModel.pkl','rb'))
 car=pd.read_csv('Cleaned_Car_data.csv')
 
