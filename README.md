@@ -42,3 +42,6 @@ The dataset contains 892 entries and includes the following columns:
 - **Data Handling**: Successfully cleaned and preprocessed the dataset by handling missing values and extracting numeric data from text.
 - **Model Accuracy**: Achieved 85% accuracy in predicting car prices.
 - **Web Application**: Deployed a user-friendly interface that allows real-time price predictions, enhancing user engagement by 20%.
+
+![image](https://github.com/amitdubey4/car_price_prediction/assets/142138081/c7d3c239-2d50-4e8a-a237-04afcc09e676)
+
